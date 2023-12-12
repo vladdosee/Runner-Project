@@ -1,0 +1,39 @@
+{
+  "levels": [
+    {
+      "uniqId": "level1",
+      "sceneName": "Level 1",
+      "1starValue": 100,
+      "2starValue": 200,
+      "3starValue": 300
+    },
+    {
+      "uniqId": "Level2",
+      "sceneName": "level 2",
+      "1starValue": 150,
+      "2starValue": 250,
+      "3starValue": 350
+    },
+    {
+      "uniqId": "level3",
+      "sceneName": "Level 3",
+      "1starValue": 200,
+      "2starValue": 300,
+      "3starValue": 400
+    },
+    {
+      "uniqId": "level4",
+      "sceneName": "Level 4",
+      "1starValue": 250,
+      "2starValue": 350,
+      "3starValue": 450
+    },
+    {
+      "uniqId": "level5",
+      "sceneName": "Level 5",
+      "1starValue": 300,
+      "2starValue": 400,
+      "3starValue": 500
+    }
+  ]
+}
